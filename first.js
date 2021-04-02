@@ -13,3 +13,11 @@ let ourName="Free Code Camp";
 const pi=3.14;
 
 console.log("Chanuka");
+
+a=10;
+b=2;
+c="I am a";
+
+console.log(a+a);
+console.log(b+b);
+console.log(c+"Chanuka");
